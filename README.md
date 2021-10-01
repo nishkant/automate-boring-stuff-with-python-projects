@@ -15,8 +15,8 @@ Have fun learning.... 🌟
 	* [Guess the Number](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/GuessTheNo.py)  (not a practice project)
 
 *	Chapter 3 - Functions
-	*	[The collatz sequence](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/CollatzProblem1.py)
-	*	[The collatz sequence 2 (slight modifications)](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/CollatzProblem2.py)
+	* [The collatz sequence](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/CollatzProblem1.py)
+	* [The collatz sequence 2 (slight modifications)](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/CollatzProblem2.py)
 	
 * Chapter 4 - Lists
 	* [Conways game of life](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/ConwayGameofLife1.py)
@@ -36,5 +36,10 @@ Have fun learning.... 🌟
 	* [Bullet point adder](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/bulletPointAdder.py) (in chapter project)
 	* [Table Printer](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/TablePrinter.py)
 
-* Chapter 7 - 
+* Chapter 7 - Pattern matching with Regular Expressions
+	* [Phone number and email address extractor](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/phoneAndEmail.py) (in chapter project)
+	* [Date detection](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/DateDetection.py)
+	* [Strong Password Detection](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/StrongPasswordDetection.py)
+	* [Regex Version of the strip() Method](https://github.com/nishkant/automate-boring-stuff-with-python-projects/blob/main/RegexVersionOfStrip.py)
+  
 
